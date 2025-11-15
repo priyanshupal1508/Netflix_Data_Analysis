@@ -5,7 +5,7 @@ The project shows how to use Python, Pandas, and basic data analysis techniques 
 
 #TASKS COVERED:
 
-1.Find the most frequent movie genre on Netflix.
+1.Find the most frequent movie genre on Netflix.<br>
 2.Identify the movie with the highest vote average.
 3.Identify the movie with the highest popularity and its genre.
 4.Identify the movie with the lowest popularity and its genre.
